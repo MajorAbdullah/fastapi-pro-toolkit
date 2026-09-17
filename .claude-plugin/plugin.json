@@ -1,0 +1,10 @@
+{
+  "name": "fastapi-pro-toolkit",
+  "version": "1.0.0",
+  "description": "Production-grade Python, FastAPI and AI/LLM engineering skills: project structure, endpoints, DI, async databases, auth, testing, performance, observability, deployment, code quality, typing, LLM integration and RAG.",
+  "author": { "name": "Syed Abdullah Shah", "email": "sa.abdullahshah.2001@gmail.com" },
+  "homepage": "https://github.com/MajorAbdullah/fastapi-pro-toolkit",
+  "repository": "https://github.com/MajorAbdullah/fastapi-pro-toolkit",
+  "license": "MIT",
+  "keywords": ["python", "fastapi", "pydantic", "sqlalchemy", "pytest", "llm", "rag", "best-practices"]
+}

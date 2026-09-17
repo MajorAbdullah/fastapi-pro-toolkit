@@ -1,0 +1,16 @@
+{
+  "name": "fastapi-pro-marketplace",
+  "description": "Marketplace for fastapi-pro-toolkit: production-grade FastAPI, Python and AI/LLM engineering skills, commands and a reviewer agent.",
+  "owner": {
+    "name": "Syed Abdullah Shah",
+    "email": "sa.abdullahshah.2001@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "fastapi-pro-toolkit",
+      "source": "./",
+      "description": "Production-grade Python, FastAPI and AI/LLM engineering skills: project structure, endpoints, DI, async databases, auth, testing, performance, observability, deployment, code quality, typing, LLM integration and RAG.",
+      "version": "1.0.0"
+    }
+  ]
+}
